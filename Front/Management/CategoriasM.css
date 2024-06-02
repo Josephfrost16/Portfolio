@@ -1,0 +1,228 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#f3eeea;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    position: relative;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 10px;
+    font-size: 45px;
+    text-shadow: #000000;
+    letter-spacing: 1px;
+  }
+  
+  h2{
+    text-align: center;
+    color: #333;
+    margin-top: 10px;
+    font-size: 40px;
+    text-shadow: #000000;
+    letter-spacing: 1px;
+  }
+  .vertical-bar {
+  width: 70px; /* Ancho de la barra */
+  height: 100vh; /* Altura igual al 100% del contenedor */
+  background-color: #3498db; /* Color de fondo de la barra */
+  top: 0; /* Alineación arriba */
+  bottom:o;
+  left: 0; /* Alineación izquierda */
+  z-index: -1;
+  position: fixed;
+  }
+  
+  .btn-group {
+    display: flex;
+    margin-top: -374px;
+    padding-left: 10px; /* Espacio para la barra vertical */
+    flex-direction: column; 
+    margin-left: 20px; 
+    align-items: flex-start;
+    width: 5%;
+    position: fixed;
+    top: 20px; 
+    left: 1px;
+  }
+  
+  #Listbutton {
+    padding: 2px;
+    width: 2%;
+    font-size: 16px;
+    margin-bottom: -40px; /* Espacio entre los botones */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 90px;
+    background-color: #3498db;
+    transition: background-color 0.3s;
+    margin-left: -16px;
+  }
+  
+  #Listbutton img {
+    width: 40px;
+    height: auto; 
+  }
+  #graphicbutton{
+    padding: 2px;
+    width: 2%;
+    font-size: 16px;
+    margin-bottom: -40px; /* Espacio entre los botones */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 90px;
+    background-color: #3498db;
+    transition: background-color 0.3s;
+    margin-left: -16px;
+  }
+  #graphicbutton img{
+    width: 40px;
+    height: auto; 
+  }
+  
+  #Gastosbutton {
+    padding: 2px;
+    width: 2%;
+    font-size: 16px;
+    margin-bottom: -40px; /* Espacio entre los botones */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 90px;
+    background-color: #3498db;
+    transition: background-color 0.3s;
+    margin-left: -16px;
+  }
+  #Gastosbutton img{
+    width: 40px;
+    height: auto; 
+  }
+
+  .navbar {
+  text-align: center;
+  color: #333;
+  top: 0;
+  margin-top: 0px;
+  font-size: 20px;
+  text-shadow: #000000;
+  letter-spacing: 1px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);    letter-spacing: 1px;
+  z-index: 1000;
+  }
+
+form {
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    background-color: #ffffff; 
+    padding: 20px; 
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+    width: calc(50% - 20px);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold; /* Hace que las etiquetas sean más visibles */
+}
+#agregarbutton{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    margin-top: 5px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column; 
+    transition: background-color 0.3s; /* Agrega una transición suave al color de fondo */
+    align-self: center;
+}
+#CategoryButton {
+    padding: 2px;
+    width: 2%;
+    font-size: 16px;
+    margin-bottom: -40px; /* Espacio entre los botones */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 90px;
+    background-color: #3498db;
+    transition: background-color 0.3s;
+    margin-left: -16px;  
+}
+#CategoryButton img{
+    width: 40px;
+    height: auto; 
+  }
+
+input, select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+table {
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 2px solid #ddd; /* Borde exterior de la tabla */
+  border-radius: 8px; /* Bordes redondeados */
+  }
+  
+  th, td {
+  padding: 12px;
+  text-align: center;
+  }
+  
+  th {
+  background-color: #50adf9; /* Color de fondo de las celdas de encabezado */
+  border-bottom: 2px solid #000000; /* Borde inferior de las celdas de encabezado */
+  }
+  
+  td {
+  background-color: #fff; /* Color de fondo de las celdas de datos */
+  border-bottom: 1px solid #ddd; /* Borde inferior de las celdas de datos */
+  }
+  
+  /* Estilos para la primera fila de datos */
+  tr:first-child td {
+  border-top: 2px solid #ddd; /* Borde superior de la primera fila de datos */
+  }
+  
+  /* Estilos para la última fila de datos */
+  tr:last-child td {
+  border-bottom: none; /* Eliminar el borde inferior de la última fila de datos */
+  }
+  
+  /* Estilos para las filas impares */
+  tr:nth-child(odd) {
+  background-color: #ff1616; /* Color de fondo de las filas impares */
+  }
+  #tabla-Categorias {
+  margin-top: 20px; /* Espacio entre la primera y la segunda tabla */
+  }
+
+

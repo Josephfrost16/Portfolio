@@ -1,0 +1,86 @@
+.profile {
+    max-width: 4400px;
+    margin: 20px auto;
+    width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #1a84cb;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-bottom: -10px;
+    transition: background-color 0.3s;
+    letter-spacing: 1px;
+  }
+
+  button:hover {
+    background-color: rgb(55, 161, 231);
+  }
+  
+  .buttongroup{
+  
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    gap: 10px;
+  }
+  
+  #CategoryButton {
+    padding: 2px;
+    width: 2%;
+    font-size: 16px;
+    margin-bottom: -40px; /* Espacio entre los botones */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 90px;
+    background-color: #3498db;
+    transition: background-color 0.3s;
+    margin-left: -16px;  
+}
+#CategoryButton img{
+    width: 40px;
+    height: auto; 
+  }
+
+  .profile-header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profile-header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .profile-body {
+    padding: 20px;
+  }
+  
+  .profile-body h2 {
+    margin-bottom: 10px;
+  }
+  
+  .profile-body ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .profile-body ul li {
+    margin-bottom: 10px;
+  }
+  
+  .profile-body ul li strong {
+    font-weight: bold;
+  }

@@ -1,0 +1,214 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Account.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color:#f3eeea;
+        display: flex;
+        flex-direction: column;
+        overflow-y: auto;
+        position: relative;
+      }
+
+      h1 {
+        text-align: center;
+        color: #333;
+        margin-top: 10px;
+        font-size: 25px;
+        text-shadow: #000000;
+        letter-spacing: 1px;
+      }
+
+      h2{
+        text-align: center;
+        color: #333;
+        margin-top: 1px;
+        font-size: 30px;
+        text-shadow: #000000;
+        letter-spacing: 1px;
+      }
+      .vertical-bar {
+        width: 70px; /* Ancho de la barra */
+        height: 100vh; /* Altura igual al 100% del contenedor */
+        background-color: #3498db; /* Color de fondo de la barra */
+        top: 0; /* Alineación arriba */
+        bottom:o;
+        left: 0; /* Alineación izquierda */
+        z-index: -1;
+        position: fixed;
+      }
+
+      .btn-group {
+        display: flex;
+        padding-left: 10px; /* Espacio para la barra vertical */
+        flex-direction: column; /* Alinea los elementos verticalmente */
+        margin-left: 20px; /* Espacio a la izquierda para separarlo del borde */
+        align-items: flex-start;
+        position: fixed;
+      }
+
+      #Listbutton {
+        padding: 2px;
+        width: 2%;
+        font-size: 16px;
+        margin-bottom: -40px; /* Espacio entre los botones */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        color: #fff;
+        margin-top: 90px;
+        background-color: #3498db;
+        transition: background-color 0.3s;
+        margin-left: -16px;
+      }
+
+      #Listbutton img {
+        width: 40px;
+        height: auto; 
+      }
+      #graphicbutton{
+        padding: 2px;
+        width: 2%;
+        font-size: 16px;
+        margin-bottom: -40px; /* Espacio entre los botones */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        color: #fff;
+        margin-top: 90px;
+        background-color: #3498db;
+        transition: background-color 0.3s;
+        margin-left: -16px;
+      }
+      #graphicbutton img{
+        width: 40px;
+        height: auto; 
+      }
+      
+      #Gastosbutton {
+        padding: 2px;
+        width: 2%;
+        font-size: 16px;
+        margin-bottom: -40px; /* Espacio entre los botones */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        color: #fff;
+        margin-top: 90px;
+        background-color: #3498db;
+        transition: background-color 0.3s;
+        margin-left: -16px;
+      }
+      #Gastosbutton img{
+        width: 40px;
+        height: auto; 
+      }
+    .navbar {
+    text-align: center;
+    color: #333;
+    margin-top: 0px;
+    font-size: 20px;
+    text-shadow: #000000;
+    letter-spacing: 1px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+      }
+
+      label {
+        margin-bottom: 10px;
+      }
+
+      input {
+        padding: 2px;
+        margin-bottom: 10px;
+        margin-right: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+      }
+
+    </style>
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+          <a class="navbar-brand" href="#">Gestor de Gastos</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="../LandingPage/Landing.html">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./Account.html">Perfil</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>    
+
+      <div class="btn-group" role="group" aria-label="Basic example">
+        <div class="vertical-bar"></div>
+      
+        <!-- Barra vertical -->
+        <button type="button" id= "Listbutton">
+          <img src="../Pictures/listaIcon.webp" alt="Icono" lista />
+        </button>
+  
+        <button type="button" id= "graphicbutton">
+          <img src="../Pictures/graficos2.png" alt="Icono" lista />
+        </button>
+
+        <button type = "button" id="CategoryButton">
+          <img src="../Pictures/CategorysIcon.png" alt="Icono" lista />
+        </button>
+        
+        <button type = "button" id="Gastosbutton">
+          <img src="../Pictures/gastosIcon.png" alt="Icono" lista />
+        </button>
+      </div>
+
+      <div class="profile">
+        <div class="profile-header">
+          <img src="../Pictures/profile.png" alt="Profile Picture">
+        </div>
+        <div class="profile-body">
+          <h2>Detalles del Perfil</h2>
+          <form>
+            <label for="username">Nombre:</label>
+            <input type="text" id="Nombre" name="Nombre" readonly/>
+    
+            <label for="username">Correo:</label>
+            <input type="text" id="username" name="username" readonly/>
+    
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password"  readonly/>
+    
+            <label for="montolimite">MontoLimite:</label>
+            <input type="text" id="montolimite" name="montolimite" readonly />
+            
+            <div class="buttongroup">
+                <button type="button" id= "Editbutton">Edit</button>
+                <button type="button" id= "Savebutton">Guardar </button>
+            </div>
+            
+          </form>
+        </div>
+      </div>
+</body>
+<script src = "Account.js" type="module"> </script>
+</html>
