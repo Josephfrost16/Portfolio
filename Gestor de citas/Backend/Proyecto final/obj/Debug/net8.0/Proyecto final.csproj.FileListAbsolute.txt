@@ -1,0 +1,77 @@
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\appsettings.json
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Proyecto final.exe
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Proyecto final.deps.json
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Proyecto final.runtimeconfig.json
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Proyecto final.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Proyecto final.pdb
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Business.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Business.pdb
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.AssemblyInfo.cs
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto final.props
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto final.props
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto final.props
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\scopedcss\bundle\Proyecto final.styles.css
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.csproj.CopyComplete
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\refint\Proyecto final.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.pdb
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\Proyecto final.genruntimeconfig.cache
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0\ref\Proyecto final.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Entidades.dll
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Entidades.pdb
+C:\Users\josep\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

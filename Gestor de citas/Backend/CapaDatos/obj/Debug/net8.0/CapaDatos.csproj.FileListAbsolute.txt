@@ -1,0 +1,17 @@
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\bin\Debug\net8.0\CapaDatos.runtimeconfig.json
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.genruntimeconfig.cache
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\josep\source\repos\Proyecto final\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CopyComplete
